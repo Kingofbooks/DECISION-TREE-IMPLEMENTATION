@@ -44,3 +44,5 @@ Implementation Steps:
           The model was able to classify correctly between Iris species based on Sepal and Petal measurements. The decision tree plot also showed the importance of the features and how decisions were made. 
       -> Conclusion: 
           This task imparted practical knowledge of data preprocessing, visualization, and empirical machine learning using Decision Trees.
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/6a3fd4ae-a499-4dc1-b86f-bd7d67d54ea3)
